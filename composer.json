@@ -1,5 +1,7 @@
 {
     "name": "rokas/demo",
+    "type": "project",
+    "license": "MIT",
     "autoload": {
         "psr-4": {
             "Rokas\\Demo\\": "src/"
@@ -11,5 +13,6 @@
             "email": "rokas.paulikas@gmail.com"
         }
     ],
-    "require": {}
+    "require": {},
+    "minimum-stability": "stable"
 }
