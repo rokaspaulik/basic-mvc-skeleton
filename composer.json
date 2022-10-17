@@ -1,0 +1,15 @@
+{
+    "name": "rokas/demo",
+    "autoload": {
+        "psr-4": {
+            "Rokas\\Demo\\": "src/"
+        }
+    },
+    "authors": [
+        {
+            "name": "rokasp",
+            "email": "rokas.paulikas@gmail.com"
+        }
+    ],
+    "require": {}
+}
