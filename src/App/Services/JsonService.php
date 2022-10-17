@@ -1,6 +1,6 @@
 <?php
 
-namespace Rokas\Demo\App\Services;
+namespace RokasPaulikas\BasicMVC\App\Services;
 
 class JsonService
 {

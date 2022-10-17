@@ -1,6 +1,6 @@
 <?php
 
-use Rokas\Demo\App\Controllers\HomeController;
-use Rokas\Demo\App\Services\Router;
+use RokasPaulikas\BasicMVC\App\Controllers\HomeController;
+use RokasPaulikas\BasicMVC\App\Services\Router;
 
 Router::get('/', [HomeController::class, 'index']);

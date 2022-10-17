@@ -4,7 +4,7 @@
     "license": "MIT",
     "autoload": {
         "psr-4": {
-            "Rokas\\Demo\\": "src/"
+            "RokasPaulikas\\BasicMVC\\": "src/"
         }
     },
     "authors": [

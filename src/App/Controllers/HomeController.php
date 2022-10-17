@@ -1,6 +1,6 @@
 <?php
 
-namespace Rokas\Demo\App\Controllers;
+namespace RokasPaulikas\BasicMVC\App\Controllers;
 
 class HomeController
 {
